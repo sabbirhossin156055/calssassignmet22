@@ -1,0 +1,236 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap");
+* {
+  font-family: "Poppins", sans-serif;
+}
+/* nav start */
+.offs:focus {
+  box-shadow: none;
+}
+.navbar-brand img {
+  width: 110px;
+}
+
+.cvtext h3 {
+  font-size: 30px;
+}
+.cvtext h1 {
+  font-size: 45px;
+}
+.cvtext p {
+  padding-right: 70px;
+  margin: 30px 0;
+}
+.cvtext button{
+  border: none;
+  background: #8490ff;
+  padding: 9px 19px;
+  color: white;
+  border-radius: 5px;
+  font-weight: 500;
+  transition: 0.4s;
+}
+.cvtext button:hover {
+  background: #63bcfc;
+}
+/* nav end */
+
+/* card img start  */
+.del {
+  border: none;
+  background: #8490ff;
+  padding: 9px 19px;
+  color: white;
+  border-radius: 5px;
+  font-weight: 500;
+  transition: 0.4s;
+}
+.del:hover {
+  background: #63bcfc;
+}
+.cadr-img h4 {
+  margin-bottom: 20px;
+}
+.cadr-img h2 {
+}
+.cadr-img p {
+  margin: 20px 0;
+}
+/* card img end */
+
+/* kk start  */
+.kk {
+  background: #8490ff;
+  padding: 100px 0;
+  color: white;
+}
+.kk h1 {
+  margin-bottom: 0;
+}
+.kk p {
+  margin-bottom: 0;
+}
+
+/* kk end */
+a{
+  text-decoration: none;
+}
+/* prices start  */
+.prices {
+  background: #f9f9ff;
+}
+.only {
+  background: #fff;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  padding: 20px 0;
+  border-radius: 6px;
+  margin-top: 20px;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+.custom-btn {
+  display: inline-block;
+  background: #8490ff;
+  padding: 8px 18px;
+  color: white;
+  transition: .4s;
+  width: 50%;
+  margin: auto;
+  border-radius: 7px;
+  margin-bottom: 20px;
+}
+.custom-btn:hover {
+  color: white;
+  background: #63bcfc;
+}
+.card {
+  border: none;
+}
+
+.only h3 {
+  display: inline-block;
+  text-align: center;
+  background: #ebebf6;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  line-height: 100px;
+  font-size: 40px;
+  margin: auto;
+}
+.only h4 {
+  padding: 10px 0;
+}
+.only p {
+}
+.only ul {
+  list-style: none;
+}
+.only ul li {
+  line-height: 70px;
+  font-size: 20px;
+}
+
+/* prices end */
+
+/* member start  */
+.bnsp {
+  border: none;
+  background: #f8f9fa;
+  padding: 9px 19px;
+  color: black;
+  border-radius: 5px;
+  font-weight: 500;
+  transition: .4s;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  display: inline-block;
+  margin-bottom: 40px;
+  width: 50%;
+  margin: auto;
+  margin-bottom:40px;
+
+}
+.bnsp:hover {
+  background: black;
+  color: white;
+}
+.sasa {
+  background: #fff;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  border-radius: 6px;
+  margin-top: 180px;
+  position: relative;
+}
+.sasa h3 {
+  margin-top: 60px;
+}
+.sasa h5 {
+  padding-bottom: 20px;
+}
+.sasa p {
+  padding-bottom: 20px;
+}
+.hawa img {
+  width: 160px;
+}
+.hawa {
+  position: absolute;
+  top: -116px;
+  left: 18px;
+}
+/* member end */
+
+/* forms start  */
+.forms {
+  background: #f9f9ff;
+}
+.for {
+  background: #fff;
+}
+.okss {
+  margin: auto;
+  margin-bottom: 20px;
+}
+.oksss {
+  width: 48%;
+  margin: auto;
+  display: inline-block;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+.okssss {
+  width: 48%;
+  margin: auto;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+.oksssss {
+  margin: auto;
+}
+.cols {
+  border: none;
+  background: #17a2b8;
+  padding: 9px 19px;
+  color: white;
+  border-radius: 5px;
+  font-weight: 500;
+  transition: 0.4s;
+}
+.cols:hover {
+  background: #63bcfc;
+}
+.oklk {
+  text-align: left;
+  margin-top: 80px;
+  padding-left: 40px;
+}
+footer {
+  background: #000;
+  color: white;
+  text-align: center;
+}
+footer h4 {
+  margin-bottom: 0;
+}
+/* forms end  */
